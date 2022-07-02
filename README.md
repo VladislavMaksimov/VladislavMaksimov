@@ -9,7 +9,7 @@
 
 ## My Goals 🏆
 
-
+In addition to working for a company, I like to create *my own useful stuff*. Now I am trying not only to improve my professional skills, but also to work with a variety of people on common projects in order to gain *management skills* and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts and the humanities.
 
 ## Favorite Products 🥒
 
