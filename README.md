@@ -32,6 +32,8 @@ In addition to working for a company, I like to create *my own useful stuff*. No
  ### Other technologies ✨
  
 <p style="vertical-align: middle;">
+  <img src="https://img.icons8.com/fluency/35/000000/node-js.png" title="Node.js"/>
+  <img src="https://avatars.githubusercontent.com/u/22247014?s=400&v=4" height="35" title="Yarn"/>
   <img src="https://create-react-app.dev/img/logo.svg" height="35" title="Create React App"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" title="Gulp"/>
   <img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" height="35" title="Nx"/>
