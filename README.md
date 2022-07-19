@@ -37,6 +37,7 @@ In addition to working for a company, I like to create *my own useful stuff*. No
   <img src="https://create-react-app.dev/img/logo.svg" height="35" title="Create React App"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" title="Gulp"/>
   <img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" height="35" title="Nx"/>
+  <img src="https://docsify.js.org/_media/icon.svg" height="35" title="Docsify"/>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/35/000000/figma--v2.png" title="Figma"/>
 </p>
@@ -58,9 +59,12 @@ In addition to working for a company, I like to create *my own useful stuff*. No
 
 ## Connect With Me 💬
 
-<a href="https://www.linkedin.com/in/vladislav-maksimov-556294207/" target="blank">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/vladislav-maksimov-556294207/" target="blank">
   <img src="https://img.icons8.com/color/35/000000/linkedin.png" title="LinkedIn"/>
 </a>
+</div>
 <a href="https://www.instagram.com/vldmax/" target="blank">
-  <img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"  title="Instagram"/>
+  <img style="margin: 0" src="https://img.icons8.com/fluency/35/000000/instagram-new.png"  title="Instagram"/>
 </a>
+<a href="https://stackoverflow.com/users/16689867/vladislav-maksimov" target="blank">
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow"/>
