@@ -19,11 +19,12 @@ In addition to working for a company, I like to create *my own useful stuff*. No
 
 ## Technologies ⚙️
 
-### Languages & Frameworks ✍🏼
+### Main Stack 💎
 
 <p>
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/35/000000/sass.png" title="Sass"/>
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/office/35/000000/react.png" title="React"/>
