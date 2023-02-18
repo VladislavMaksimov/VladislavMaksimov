@@ -69,3 +69,7 @@ In addition to working for a company, I like to create *my own useful stuff*. No
 </a>
 <a href="https://stackoverflow.com/users/16689867/vladislav-maksimov" target="blank">
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow"/>
+</a>
+<a href="https://www.reddit.com/user/volya_tarakanov" target="blank">
+  <img height="35" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" title="Reddit"/>
+</a>
