@@ -1,6 +1,6 @@
 # Hi there. I'm Vlad 👋
 
-🧒 A middle- frontend developer  
+🧒 A middle frontend developer  
 💻 Currently learning React and Typescript advanced topics  
 🌱 Going to learn backend technologies to become a fullstack developer  
 🚀 Also want to learn a bit of testing, writing docs and so on to better understand a whole software development process  
