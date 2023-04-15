@@ -5,17 +5,17 @@
 🧒 A middle frontend developer  
 💻 Currently learning React and Typescript advanced topics  
 🌱 Going to learn backend technologies to become a fullstack developer  
-🚀 Also want to learn a bit of testing, writing docs and so on to better understand a whole software development process  
+🚀 Also want to learn a bit about testing, writing docs, and so on to better understand a whole software development process  
 🎓 Graduated with a bachelor's degree in computer science from Perm State University  
 🤖 Currently studying for a master's degree at the Higher School of Economics in the [digital humanities program](https://perm.hse.ru/en/ma/digitalhum/)
 
 ## My Goals 🏆
 
-In addition to working for a company, I like to create _my own useful stuff_. Now I am trying not only to improve my professional skills, but also to work with a variety of people on common projects in order to gain _management skills_ and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts and the humanities.
+In addition to working for a company, I like to create _my own useful stuff_. Now I am trying not only to improve my professional skills but also to work with a variety of people on common projects in order to gain _management skills_ and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts, and the humanities.
 
 ## Favorite Products 🥒
 
-🔎 [ETIS 2.0](https://github.com/ENAleksey/etis-extension) – a web extension that improves the UI of the Perm State University's information system called [ETIS](https://student.psu.ru/). If you are not a student of this university, you can't access the system. However, you can see the number of the students currently using our extension in the [Chrome Web Store](https://chrome.google.com/webstore/detail/%D0%B5%D1%82%D0%B8%D1%81-20/lnggbapghkjneppcomlegoocpdeaiafa?hl=en).
+🔎 [ETIS 2.0](https://github.com/ENAleksey/etis-extension) – a web extension that improves the UI of the Perm State University's information system called [ETIS](https://student.psu.ru/). If you are not a student of this university, you can't access the system. However, you can see the number of students currently using our extension in the [Chrome Web Store](https://chrome.google.com/webstore/detail/%D0%B5%D1%82%D0%B8%D1%81-20/lnggbapghkjneppcomlegoocpdeaiafa?hl=en).
 
 🔎 [SGi Hacker Tools](https://github.com/VladislavMaksimov/sgi-hacker-tools) – a web extension that adds some useful and fun features to the UI of a website called [Small Games](https://small-games.info/). I started this project primarily to learn some new technologies, such as Gulp and TypeScript. However, I'm going to publish this extension in the store and share it with Small Games users because this website is dear to my heart as the place where I spent lots of hours chatting when I was a teenager.
 
