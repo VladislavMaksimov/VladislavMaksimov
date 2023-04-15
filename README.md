@@ -1,15 +1,17 @@
 # Hi there. I'm Vlad 👋
 
+📃 [See my CV](./documents/CV_Vladislav_Maksimov.pdf)
+
 🧒 A middle frontend developer  
 💻 Currently learning React and Typescript advanced topics  
 🌱 Going to learn backend technologies to become a fullstack developer  
 🚀 Also want to learn a bit of testing, writing docs and so on to better understand a whole software development process  
 🎓 Graduated with a bachelor's degree in computer science from Perm State University  
-🤖 Currently studying for a master's degree at the Higher School of Economics in the [digital humanities program](https://perm.hse.ru/en/ma/digitalhum/)   
+🤖 Currently studying for a master's degree at the Higher School of Economics in the [digital humanities program](https://perm.hse.ru/en/ma/digitalhum/)
 
 ## My Goals 🏆
 
-In addition to working for a company, I like to create *my own useful stuff*. Now I am trying not only to improve my professional skills, but also to work with a variety of people on common projects in order to gain *management skills* and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts and the humanities.
+In addition to working for a company, I like to create _my own useful stuff_. Now I am trying not only to improve my professional skills, but also to work with a variety of people on common projects in order to gain _management skills_ and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts and the humanities.
 
 ## Favorite Products 🥒
 
