@@ -1,6 +1,6 @@
 # Hi there. I'm Vlad 👋
 
-📃 [See my CV](./documents/CV_Vladislav_Maksimov.pdf)
+📃 [Read my CV](./documents/CV_Vladislav_Maksimov.pdf)
 
 🧒 A middle frontend developer  
 💻 Currently learning React and Typescript advanced topics  
