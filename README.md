@@ -67,7 +67,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
 
 ## Connect With Me 💬
 
-<a style="text-decoration: none" href="https://www.linkedin.com/in/vladislav-maksimov-556294207/" target="blank">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/vladislav-maksimov/" target="blank">
   <img src="https://img.icons8.com/color/35/000000/linkedin.png" title="LinkedIn"/>
 </a>
 </div>
