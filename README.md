@@ -7,11 +7,11 @@
 🌱 Going to learn backend technologies to become a fullstack developer  
 🚀 Also want to learn a bit about testing, writing docs, and so on to better understand a whole software development process  
 🎓 Graduated with a bachelor's degree in computer science from Perm State University  
-🤖 Currently studying for a master's degree at the Higher School of Economics in the [digital humanities program](https://perm.hse.ru/en/ma/digitalhum/)
+🤖 Graduated with a master's degree in [digital humanities](https://perm.hse.ru/en/ma/digitalhum/) from Higher School of Economics  
 
 ## My Goals 🏆
 
-In addition to working for a company, I like to create _my own useful stuff_. Now I am trying not only to improve my professional skills but also to work with a variety of people on common projects in order to gain _management skills_ and learn how to work with people with different backgrounds. In the future, I'm going to manage really complex projects that integrate digital technology, the arts, and the humanities.
+In addition to working for a company, I like to create _my own useful stuff_. Now I am trying not only to improve my professional skills but also to work with a variety of people on common projects in order to gain _management skills_ and learn how to work with people with different backgrounds. In the future, I'm going to manage complex projects that integrate digital technology, the arts, and the humanities.
 
 ## Favorite Products 🥒
 
@@ -40,6 +40,8 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" height="35" title="Electron"/>
   <img src="https://create-react-app.dev/img/logo.svg" height="35" title="Create React App"/>
   <img src="https://mui.com/static/logo.png" height="35" title="MUI"/>
+  <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" height="35" title="Ant Design"/>
+  <img src="https://avatars.githubusercontent.com/u/19199542?s=48&v=4" height="35" title="Graphin"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="35" title="GraphQL"/>
   <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" height="35" title="Apollo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height="35" title="Vite"/>
