@@ -48,6 +48,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" height="35" title="Apollo"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" title="Gulp"/>
   <img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" height="35" title="Nx"/>
+  <img src="https://cordova.apache.org/static/img/cordova_256.png" height="35" title="Apache Cordova"/>
   <img src="https://docsify.js.org/_media/icon.svg" height="35" title="Docsify"/>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/35/000000/figma--v2.png" title="Figma"/>
