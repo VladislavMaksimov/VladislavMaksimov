@@ -40,6 +40,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" height="35" title="Electron"/>
   <img src="https://create-react-app.dev/img/logo.svg" height="35" title="Create React App"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height="35" title="Vite"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="35" title="Redux"/>
   <img src="https://mui.com/static/logo.png" height="35" title="MUI"/>
   <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" height="35" title="Ant Design"/>
   <img src="https://avatars.githubusercontent.com/u/19199542?s=48&v=4" height="35" title="Graphin"/>
