@@ -1,13 +1,13 @@
 # Hi there. I'm Vlad 👋
 
-📃 [Read my CV](./documents/CV_Vladislav_Maksimov.pdf) *(updated: 19.12.2023)*  
+📃 [Read my CV](./documents/CV_Vladislav_Maksimov.pdf) _(updated: 15.01.2024)_
 
 🧒 A middle frontend developer  
 💻 Currently learning React and Typescript advanced topics  
 🌱 Going to learn backend technologies to become a fullstack developer  
 🚀 Also want to learn a bit about testing, writing docs, and so on to better understand a whole software development process  
 🎓 Graduated with a bachelor's degree in computer science from Perm State University  
-🤖 Graduated with a master's degree in [digital humanities](https://perm.hse.ru/en/ma/digitalhum/) from Higher School of Economics  
+🤖 Graduated with a master's degree in [digital humanities](https://perm.hse.ru/en/ma/digitalhum/) from Higher School of Economics
 
 ## My Goals 🏆
 
