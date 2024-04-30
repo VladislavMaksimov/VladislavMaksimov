@@ -45,6 +45,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" height="35" title="Ant Design"/>
   <img src="https://avatars.githubusercontent.com/u/19199542?s=48&v=4" height="35" title="Graphin"/>
   <img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" height="35" title="Storybook"/>
+  <img src="https://seeklogo.com/images/P/payload-logo-A8D673164C-seeklogo.com.png" height="35" title="Payload CMS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="35" title="GraphQL"/>
   <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" height="35" title="Apollo"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" title="Gulp"/>
