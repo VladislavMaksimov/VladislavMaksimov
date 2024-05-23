@@ -42,6 +42,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height="35" title="Vite"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="35" title="Redux"/>
   <img src="https://mui.com/static/logo.png" height="35" title="MUI"/>
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?fit=1000%2C1000&ssl=1&w=640" height="35" title="PrimeReact" />
   <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" height="35" title="Ant Design"/>
   <img src="https://avatars.githubusercontent.com/u/19199542?s=48&v=4" height="35" title="Graphin"/>
   <img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" height="35" title="Storybook"/>
