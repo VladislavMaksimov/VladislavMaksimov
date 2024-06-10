@@ -57,6 +57,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/35/000000/figma--v2.png" title="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" height="35" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" height="35" title="PyQt"/>
 </p>
 
 ## Stats 📊
