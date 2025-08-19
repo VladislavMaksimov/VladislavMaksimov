@@ -30,6 +30,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/office/35/000000/react.png" title="React"/>
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="35" title="Next.js"/>
 </p>
  
  ### Other technologies ✨
@@ -40,7 +41,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" height="35" title="Electron"/>
   <img src="https://create-react-app.dev/img/logo.svg" height="35" title="Create React App"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" height="35" title="Vite"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="35" title="Redux"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="35" title="Redux + Redux Toolkit"/>
   <img src="https://mui.com/static/logo.png" height="35" title="MUI"/>
   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?fit=1000%2C1000&ssl=1&w=640" height="35" title="PrimeReact" />
   <img src="https://camo.githubusercontent.com/bc6af282bbd78ae1c49608a917b1f5f601e7762cd3dd9db674df183becb7b458/68747470733a2f2f7a6f732e616c697061796f626a656374732e636f6d2f726d73706f7274616c2f77496a4d446e7372446f50506349562e706e67" height="35" title="Ant Design"/>
@@ -57,6 +58,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/35/000000/figma--v2.png" title="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" height="35" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" height="35" title="PyQt"/>
 </p>
 
 ## Stats 📊
@@ -87,5 +89,5 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow"/>
 </a>
 <a href="https://www.reddit.com/user/volya_tarakanov" target="blank">
-  <img height="35" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" title="Reddit"/>
+  <img height="35" src="https://seeklogo.com/images/R/reddit-new-2023-logo-16086DD48B-seeklogo.com.png" title="Reddit"/>
 </a>
