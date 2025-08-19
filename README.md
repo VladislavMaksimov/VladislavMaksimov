@@ -30,7 +30,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/office/35/000000/react.png" title="React"/>
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="35" title="Next.js"/>
+  <img src="./logos/nextjs.svg" height="35" title="Next.js"/>
 </p>
  
  ### Other technologies ✨
