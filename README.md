@@ -47,7 +47,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img src="https://camo.githubusercontent.com/bc6af282bbd78ae1c49608a917b1f5f601e7762cd3dd9db674df183becb7b458/68747470733a2f2f7a6f732e616c697061796f626a656374732e636f6d2f726d73706f7274616c2f77496a4d446e7372446f50506349562e706e67" height="35" title="Ant Design"/>
   <img src="https://avatars.githubusercontent.com/u/19199542?s=48&v=4" height="35" title="Graphin"/>
   <img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" height="35" title="Storybook"/>
-  <img src="https://images.seeklogo.com/logo-png/44/2/payload-logo-png_seeklogo-444238.png" height="35" title="Payload CMS"/>
+  <img src="./logos/payloadcms.png" height="35" title="Payload CMS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="35" title="GraphQL"/>
   <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" height="35" title="Apollo"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png" title="Gulp"/>
