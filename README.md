@@ -89,5 +89,5 @@ In addition to working for a company, I like to create _my own useful stuff_. No
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow"/>
 </a>
 <a href="https://www.reddit.com/user/volya_tarakanov" target="blank">
-  <img height="35" src="https://seeklogo.com/images/R/reddit-new-2023-logo-16086DD48B-seeklogo.com.png" title="Reddit"/>
+  <img height="35" src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png" title="Reddit"/>
 </a>
