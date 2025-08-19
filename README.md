@@ -63,18 +63,7 @@ In addition to working for a company, I like to create _my own useful stuff_. No
 
 ## Stats 📊
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=VladislavMaksimov&theme=vision-friendly-dark&show_icons=true" alt="GitHub profile stats"/>
-      </td>
-      <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladislavMaksimov&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Top Languages"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladislavMaksimov&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Top Languages"/>
 
 ## Connect With Me 💬
 
